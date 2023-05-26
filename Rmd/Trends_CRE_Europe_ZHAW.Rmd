@@ -289,7 +289,7 @@ class: inverse, center, middle
 
 .blockquote[Einflussfaktoren Immobilienallokation]
 
-.blockquote[Deep Dive: Finanzierungsumfeld und Investmentumfeld]
+.blockquote[Deep Dive: Finanzierungsumfeld und Investmentstrategien]
 
 
 
