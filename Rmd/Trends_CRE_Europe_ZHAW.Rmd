@@ -289,7 +289,7 @@ class: inverse, center, middle
 
 .blockquote[Einflussfaktoren Immobilienallokation]
 
-.blockquote[Entwicklungsperspektiven ausgewählter Einflussfaktoren]
+.blockquote[Deep Dive: Finanzierungsumfeld und Investmentumfeld]
 
 
 
@@ -331,7 +331,7 @@ knitr::include_graphics('../img/Gruende_Reduzierung_Immobilienquote_(CBRE_2023)_
 name: denomEff
 class: left
 
-# Bezugsgrößen-Effekt (am Beispiel von US Pensionsfonds)
+# Bezugsgrößen-Effekt (Beispiel US Pensionsfonds)
 
 <br>
 <br>
