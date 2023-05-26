@@ -932,6 +932,33 @@ knitr::include_graphics(xfun::from_root("img/BuildStock_Age_D.svg"))
   * "Henning and Palzer (2014) developed the REMod-D model for optimising energy systems at the national level. [..] [T]hey conclude that ambitious levels of heat savings in building retrofitting will be needed to reach 100% renewable energy in heat and electricity use, considering that full exploitation of technical resource potentials will most probably not be possible."
 
 
+---
+name: affordability
+class: left
+
+# Finanzierung und Förderung nachhaltiger Immobilien
+
+* Private und institutionelle Investoren
+
+--
+
+* Entwicklung eines integrierten Tools
+
+--
+
+  * Kosten-Nutzen-Analysen von Sanierungsmaßnahmen
+
+--
+  
+  * Priorisierung von Maßnahmen unter Berücksichtigung der...
+
+--
+      * ...Finanzierbarkeit und der
+--
+      * ...Fördermöglichkeiten (national bzw. EU)
+
+
+
 
 ---
 name: WirtschaftlichkeitSanierung
@@ -968,29 +995,4 @@ knitr::include_graphics('../img/EnergySavingCostCurve_Best_(BPIE_2015_S9).png')
 * Im Best Case zudem noch günstigere Finanzierungsbedingungen (2% statt 4% in Bau und Seb-Szenario) sowie halbierten Transaktionskosten und höheren Kostensenkungen im Bau
 
 
-
----
-name: affordability
-class: left
-
-# Finanzierung und Förderung nachhaltiger Immobilien
-
-* Private und institutionelle Investoren
-
---
-
-* Entwicklung eines integrierten Tools
-
---
-
-  * Kosten-Nutzen-Analysen von Sanierungsmaßnahmen
-
---
-  
-  * Priorisierung von Maßnahmen unter Berücksichtigung der...
-
---
-      * ...Finanzierbarkeit und der
---
-      * ...Fördermöglichkeiten (national bzw. EU)
 
