@@ -593,14 +593,13 @@ class: left
 # (Energie-)Politische Rahmenbedingungen in Europa
 
 .panelset[
-.panel[.panel-name[EU Green Deal]
-```{r greendeal,echo=FALSE,out.width='100%',fig.align='center'}
-knitr::include_graphics('../img/GreenDeal_(eur-lex.europa.eu).png')
+.panel[.panel-name[Green Deal und ETS2]
+```{r,echo=FALSE,out.width='90%',fig.align='center'}
+knitr::include_graphics('../img/ets2_(umweltbundesamt).png')
 ```
+.quellePanURL[Quelle: [Umweltbundesamt (2021)](https://www.umweltbundesamt.de/sites/default/files/medien/1410/dokumente/2022_01_17_factsheet_ets_2.pdf).]
 
-.quellePanURL[[Europäische Kommission (2019).](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:52019DC0640&from=ES)]
 ]
-
 .panel[.panel-name[ETS Phase 1-3]
 ```{r,echo=FALSE,out.width='100%',fig.align='center'}
 knitr::include_graphics('../img/ets-carbon-price_2005-2020.svg')
@@ -613,20 +612,45 @@ knitr::include_url("https://ember-climate.org/data/data-tools/carbon-price-viewe
 ```
 .quellePanURL[Quelle: [ember-climate.org](https://ember-climate.org/data/data-tools/carbon-price-viewer/)]
 ]
-
 ]
 
 
 
 ???
 
-* Green Deal *
+* **Green Deal**
 
-.blockquote["energy efficiency must be prioritised". Specifically for the building sector, accounting for around 40% of energy consumption, the announced ‘renovation wave’ and a recast of the Energy Performance of Buildings Directive (EPBD) aim to at least double the current renovation rates of 0.4–1.2% per year (COM, 2019)] [aus Hummel et al](https://link.springer.com/article/10.1007/s12053-023-10097-6)
+.blockquote[
+"energy efficiency must be prioritised". Specifically for the building sector, accounting for around 40% of energy consumption, the announced ‘renovation wave’ and a recast of the Energy Performance of Buildings Directive (EPBD) aim to at least double the current renovation rates of 0.4–1.2% per year."
+.tr[
+— (EU Kommission, 2019), zitiert nach [Hummel et al](https://link.springer.com/article/10.1007/s12053-023-10097-6)
+]
+] 
+
+* Ab 2024 sollen im Rahmen des ETS2 auch **Gebäude** und der **Verkehrssektor** in den (bereits bestehenden!) europäischen Emissionshandel (ETS) einbezogen werden.
+  * ETS2 ersetzt dann letztlich die ESR (Effort Sharing Regulation), also die zwischenzeitlich verpflichtenden nationalen Emissionsziele (**grau gestrichelt**)
+  * Erstmals sollen Mitgliedsstaaten für 2024 ein Reporting erstellen (fällig bis Mitte 2025): **Monitoring Reporting and Veryfying (MRV)**
+  * bis 2026 eher softe Einphasung
+  * Dann bis 2030 klar definierte Schritte der Reduzierung von Emissionsrechten
+  * als Upstream Regulierung (d.h. nicht einzelne Haushalte müssen Emissionsrechte kaufen, sondern die "In-Verkehrsbringer")
+* Erlöse fließen in den 
+  * **Klimasozialfonds** (sozialer Ausgleich) und den
+  * **Innovationsfonds** (Finanzierung von Green Investments!)
+  
+
+* Wie teuer wird das? Schätzung der EU-Kommission bei vorgesehener Mengenregulierung Preisniveauzwischen 48€/tCO2 und 80€/t CO2 ergeben in 2030.
+
+* das schint eher optimistisch ist, wie ein Blick in den bestehenden **Emissionshandel** ETS zeigt
+
+* Dieser trat 2005 in Kraft und stellt quasi eine Umsetzung des Kyotoprotokolls (von 1997) dar
+  * seither wurden schrittweise mehr Sektoren integriert (bspw. neben Industrie seit 2013 auch Luftfahrtsektor)
+  * und in mehreren Schritten die Menge der Emissionsrechte reduziert (seit 2021 befinden wir uns in Phase 4, der letzten Phase mit klar vorgegebenen Reduktionszielen)
+  * Stabilisierung des Marktes bzw. CO2-Preises durch die **MSR** (Market Stability Reserve)
 
 
 
-* **Emissionshandel**
+
+* History in detail
 
 * Kyoto-Protokoll 1997: erstmals rechtlich verbindliche Ziele zur Emissionsreduktion
 * Green Paper EU 2000: Erste Ideen zu einem europ. Emissionshandel
@@ -832,9 +856,8 @@ class: left
 
 --
 * Neues Preisniveau muss noch gefunden werden. Bedeutsam dabei:
-  * Makroökonomische Entwicklung
-  * Nachhaltigkeitsaspekte (Gefahr von Stranded Assets)
-  * Demografischer Wandel
+  * Makroökonomische Entwicklung und demografischer Wandel
+  * Nachhaltigkeitsaspekte und politische Risiken
 
 --
 * Nachhaltiges Investieren als intakter Trend, gerade in der Immobilienbranche
@@ -847,6 +870,13 @@ class: left
 
 * Zur Projektentwicklung konnte ich mangels Zeit nichts sagen, aber zumindest an dieser Stelle will ich noch ein paar entscheidende Aspekte im Zusammenhang mit der Projektentwicklung nennen.
 
+
+* **NEUES Preisniveau**
+  * Stützende Faktoren: bisher stabile Nachfrage nach Flächen (Realwirtschaft)
+  * Nachhaltigkeitsaspekte und politische Risiken
+    * Einerseits sollte Investitionsbedarf stützen
+    * Andererseits bisher wenig Planbarkeit bspw. ETS2
+    * Gefahr von stranded Assets?
 
 ---
 name: EndHanks

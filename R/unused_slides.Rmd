@@ -72,10 +72,18 @@ library(fontawesome)
 `r fa('linkedin')` @jfschoder
 ]
 
+---
+class: left
 
+.panelset[
+.panel[.panel-name[EU Green Deal]
+```{r greendeal,echo=FALSE,out.width='100%',fig.align='center'}
+knitr::include_graphics('../img/GreenDeal_(eur-lex.europa.eu).png')
+```
 
-
-
+.quellePanURL[[Europäische Kommission (2019).](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:52019DC0640&from=ES)]
+]
+]
 
 ---
 name: ewigeRente
